@@ -73,7 +73,7 @@ require (
 	github.com/containerd/errdefs v0.3.0 // indirect
 	github.com/containerd/platforms v0.2.1 // indirect
 	github.com/itchyny/timefmt-go v0.1.6 // indirect
-	github.com/vektah/gqlparser/v2 v2.5.15 // indirect
+	github.com/vektah/gqlparser/v2 v2.5.23 // indirect
 )
 
 require (
@@ -130,7 +130,7 @@ require (
 	github.com/go-openapi/swag v0.22.3 // indirect
 	github.com/gobuffalo/flect v1.0.2 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
-	github.com/golang-jwt/jwt/v5 v5.2.1
+	github.com/golang-jwt/jwt/v5 v5.2.2
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/gnostic-models v0.6.8 // indirect
