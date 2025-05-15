@@ -101,8 +101,8 @@ github.com/abhay-krishna/cluster-api v1.6.0-eksa.2 h1:1bv3j/+SONI2ipcVr7vd2rKoqF
 github.com/abhay-krishna/cluster-api v1.6.0-eksa.2/go.mod h1:LB7u/WxiWj4/bbpHNOa1oQ8nq0MQ5iYlD0pGfRSBGLI=
 github.com/agnivade/levenshtein v1.0.1/go.mod h1:CURSv5d9Uaml+FovSIICkLbAUZ9S4RqaHDIsdSBg7lM=
 github.com/agnivade/levenshtein v1.1.0/go.mod h1:veldBMzWxcCG2ZvUTKD2kJNRdCk5hVbJomOvKkmgYbo=
-github.com/agnivade/levenshtein v1.1.1 h1:QY8M92nrzkmr798gCo3kmMyqXFzdQVpxLlGPRBij0P8=
-github.com/agnivade/levenshtein v1.1.1/go.mod h1:veldBMzWxcCG2ZvUTKD2kJNRdCk5hVbJomOvKkmgYbo=
+github.com/agnivade/levenshtein v1.2.1 h1:EHBY3UOn1gwdy/VbFwgo4cxecRznFk7fKWN1KOX7eoM=
+github.com/agnivade/levenshtein v1.2.1/go.mod h1:QVVI16kDrtSuwcpd0p1+xMC6Z/VfhtCyDIjcwga4/DU=
 github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc/go.mod h1:LOuyumcjzFXgccqObfd/Ljyb9UuFJ6TxHnclSeseNhc=
 github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf/go.mod h1:ybxpYRFXyAe+OPACYpWeL0wqObRcbAqCMya13uyzqw0=
 github.com/andreyvit/diff v0.0.0-20170406064948-c7f18ee00883/go.mod h1:rCTlJbsFo29Kk6CurOXKm700vrz8f0KW0JNfpkRJY/8=
@@ -889,8 +889,8 @@ github.com/valyala/fasttemplate v1.2.1/go.mod h1:KHLXt3tVN2HBp8eijSv/kGJopbvo7S+
 github.com/valyala/tcplisten v1.0.0/go.mod h1:T0xQ8SeCZGxckz9qRXTfG43PvQ/mcWh7FwZEA7Ioqkc=
 github.com/vektah/gqlparser v1.1.2/go.mod h1:1ycwN7Ij5njmMkPPAOaRFY4rET2Enx7IkVv3vaXspKw=
 github.com/vektah/gqlparser/v2 v2.2.0/go.mod h1:i3mQIGIrbK2PD1RrCeMTlVbkF2FJ6WkU1KJlJlC+3F4=
-github.com/vektah/gqlparser/v2 v2.5.15 h1:fYdnU8roQniJziV5TDiFPm/Ff7pE8xbVSOJqbsdl88A=
-github.com/vektah/gqlparser/v2 v2.5.15/go.mod h1:WQQjFc+I1YIzoPvZBhUQX7waZgg3pMLi0r8KymvAE2w=
+github.com/vektah/gqlparser/v2 v2.5.23 h1:PurJ9wpgEVB7tty1seRUwkIDa/QH5RzkzraiKIjKLfA=
+github.com/vektah/gqlparser/v2 v2.5.23/go.mod h1:D1/VCZtV3LPnQrcPBeR/q5jkSQIPti0uYCP/RI0gIeo=
 github.com/vmware/govmomi v0.37.2 h1:5ANLoaTxWv600ZnoosJ2zXbM3A+EaxqGheEZbRN8YVE=
 github.com/vmware/govmomi v0.37.2/go.mod h1:mtGWtM+YhTADHlCgJBiskSRPOZRsN9MSjPzaZLte/oQ=
 github.com/xanzy/ssh-agent v0.3.3 h1:+/15pJfg/RsTxqYcX6fHqOXZwwMP+2VyYWJeWM2qQFM=
